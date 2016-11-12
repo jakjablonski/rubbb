@@ -1,0 +1,72 @@
+{
+  "RSpec": {
+    "coverage": {
+      "C:/Users/Anna/RubymineProjects/untitled/lib/insertsort.rb": [
+        1,
+        12,
+        12,
+        12,
+        39,
+        39,
+        81,
+        23,
+        23,
+        null,
+        16,
+        16,
+        null,
+        42,
+        null,
+        null,
+        12,
+        null,
+        null,
+        null,
+        null
+      ],
+      "C:/Users/Anna/RubymineProjects/untitled/spec/silnia_spec.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        2,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "C:/Users/Anna/RubymineProjects/untitled/lib/silnia.rb": [
+        1,
+        7,
+        6,
+        6,
+        6,
+        114,
+        114,
+        null,
+        6,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1478966458
+  }
+}
